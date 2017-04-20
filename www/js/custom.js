@@ -71,18 +71,18 @@ $(document).ready(function() {
 		return false;
 	});
 	//custom select
-	$('select').styler();
+	//$('select').styler();
 
-	$('.mask').mask('+38 (099) 999-9999');
+//	$('.mask').mask('+38 (099) 999-9999');
 
-	$('.btn-big2').click(function() {
-		$('.feedback-tel').slideDown(300);
-		return false;
-	});
-	$(".feedback-tel .close").on('click', function(e) {
-	    $('.feedback-tel').slideUp(300);
-		return false;
-	});
+//	$('.btn-big2').click(function() {
+//		$('.feedback-tel').slideDown(300);
+//		return false;
+//	});
+//	$(".feedback-tel .close").on('click', function(e) {
+//	    $('.feedback-tel').slideUp(300);
+//		return false;
+//	});
 
 
 
